@@ -1,0 +1,16 @@
+service_id,service_name,service_category,price
+1,Breakfast,Food & Beverage,450
+2,Airport Transfer,Transportation,1200
+3,Spa,Wellness,2500
+4,Laundry,Housekeeping,500
+5,Room Service,Food & Beverage,700
+6,Gym,Wellness,800
+7,Swimming Pool,Recreation,600
+8,Restaurant,Food & Beverage,1200
+9,Conference Hall,Business,5000
+10,Parking,Transportation,300
+11,Extra Bed,Room Service,1000
+12,Breakfast Buffet,Food & Beverage,650
+13,City Tour,Transportation,1800
+14,Kids Activity,Recreation,400
+15,Business Lounge,Business,1500

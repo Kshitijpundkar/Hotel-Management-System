@@ -1,0 +1,21 @@
+hotel_id,hotel_name,city,country,state,address,phone_number,email,star_rating
+1,Grand Palace Mumbai,Mumbai,India,Maharashtra,"10/433, Chaudry Street, Mumbai",8196001338,contact1@hotelanalytics.com,3.5
+2,Royal Orchid Pune,Pune,India,Maharashtra,"08/38, Kannan Marg, Pune",09402654235,contact2@hotelanalytics.com,5.0
+3,Taj Heritage Delhi,Delhi,India,Delhi,"H.No. 161, Padmanabhan Path, Delhi",4078161849,contact3@hotelanalytics.com,4.5
+4,The Residency Bengaluru,Bengaluru,India,Karnataka,"H.No. 93, Bath Zila, Bengaluru",3413164752,contact4@hotelanalytics.com,4.0
+5,Silver Oak Hyderabad,Hyderabad,India,Telangana,"H.No. 53, Bora Road, Hyderabad",2832764835,contact5@hotelanalytics.com,3.0
+6,Sunrise Grand Chennai,Chennai,India,Tamil Nadu,"H.No. 305, Loyal Marg, Chennai",+913953767242,contact6@hotelanalytics.com,3.0
+7,Lake View Kolkata,Kolkata,India,West Bengal,"884, Sangha, Kolkata",6532871012,contact7@hotelanalytics.com,3.0
+8,The Imperial Ahmedabad,Ahmedabad,India,Gujarat,"26/916, Sidhu Marg, Ahmedabad",4801845146,contact8@hotelanalytics.com,5.0
+9,Green Park Jaipur,Jaipur,India,Rajasthan,"704, Gokhale Circle, Jaipur",1489325288,contact9@hotelanalytics.com,4.0
+10,Blue Horizon Goa,Goa,India,Goa,"H.No. 957, Choudhury Nagar, Goa",04303911718,contact10@hotelanalytics.com,4.5
+11,Golden Tulip Nagpur,Nagpur,India,Maharashtra,"278, Lanka Street, Nagpur",9638346578,contact11@hotelanalytics.com,2.5
+12,City Heights Nashik,Nashik,India,Maharashtra,"13, Bhatt Ganj, Nashik",00983930103,contact12@hotelanalytics.com,5.0
+13,Palm Residency Indore,Indore,India,Madhya Pradesh,"H.No. 051, Khanna Circle, Indore",07382997376,contact13@hotelanalytics.com,4.5
+14,Royal Comfort Surat,Surat,India,Gujarat,"116, Sampath Path, Surat",07010651333,contact14@hotelanalytics.com,3.5
+15,The Fern Amritsar,Amritsar,India,Punjab,"72/62, Shere Road, Amritsar",+911781080132,contact15@hotelanalytics.com,3.0
+16,Urban Retreat Udaipur,Udaipur,India,Rajasthan,"77, Rattan Ganj, Udaipur",+912606474687,contact16@hotelanalytics.com,3.0
+17,Regal Suites Lucknow,Lucknow,India,Uttar Pradesh,"343, Bhat Nagar, Lucknow",5009788208,contact17@hotelanalytics.com,3.5
+18,Crystal Palace Bhopal,Bhopal,India,Madhya Pradesh,"H.No. 219, Keer Zila, Bhopal",01939909169,contact18@hotelanalytics.com,4.0
+19,Heritage Inn Chandigarh,Chandigarh,India,Chandigarh,"85/43, Khare Path, Chandigarh",06247510799,contact19@hotelanalytics.com,4.0
+20,Skyline Grand Kochi,Kochi,India,Kerala,"H.No. 183, Lanka Circle, Kochi",+915135427849,contact20@hotelanalytics.com,3.5
